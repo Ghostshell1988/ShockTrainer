@@ -1,1 +1,1 @@
-# ShockTrainer
+# ShockTrainer 9000 is a product that is intended to sense birds, based on movement, and to effectivly train them to not land in certain places. For more info, visit www.scarecrowinc.wordpress.com, or email us @ scarecrowinc.help@gmail.com
